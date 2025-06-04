@@ -1,0 +1,9 @@
+[2025-06-02T21:22:34.285566100] - Botão 'log' foi pressionado pelo usuário: 
+[2025-06-02T21:22:35.379481600] - Botão 'log' foi pressionado pelo usuário: 
+[2025-06-02T21:22:35.683689200] - Botão 'log' foi pressionado pelo usuário: 
+[2025-06-02T21:22:49.034864200] - Botão 'log' foi pressionado pelo usuário: sam
+[2025-06-02T21:30:56.277391800] - Botão 'log' foi pressionado pelo usuário: samuel
+[2025-06-02T21:30:57.204586400] - Botão 'log' foi pressionado pelo usuário: samuel
+[2025-06-02T21:30:57.447524900] - Botão 'log' foi pressionado pelo usuário: samuel
+[2025-06-02T21:30:57.668704700] - Botão 'log' foi pressionado pelo usuário: samuel
+[2025-06-02T21:30:57.852965200] - Botão 'log' foi pressionado pelo usuário: samuel
